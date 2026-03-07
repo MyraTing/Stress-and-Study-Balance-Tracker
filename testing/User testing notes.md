@@ -2,7 +2,9 @@
 
 User testing was performed to check the functionality and usability of the developed prototype system. A limited number of 3-5 students were engaged in the testing process to perform the tasks using the prototype system.
 
+
 **Testing Tasks**
+
 A number of tasks were given to the users to perform using the developed prototype system. These tasks are as follows:
 1. To log in to the system
 2. To record the daily hours of study
@@ -13,6 +15,7 @@ A number of tasks were given to the users to perform using the developed prototy
 
 
 **Testing Observations**
+
 During the user testing, the users were able to perform the tasks without any major issues. The users were also able to navigate the pages of the system without any difficulties. The users appreciated the simple design of the dashboard, as they are able to view the hours of study and the stress level. The users also appreciated the feature of sending notifications and relaxation tips, as these features are very useful for maintaining a healthy lifestyle.
 
 
