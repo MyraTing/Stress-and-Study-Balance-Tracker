@@ -1,12 +1,14 @@
-**Project Overview & Goals**
+# Requirements
+
+## Project Overview & Goals
 This project is in line with SDG 3 (Good Health and Well-Being), which aims to prevent academic burnout. The system allows students to monitor their study habits and stress levels while providing suggestions to stay healthy and have a balance between work and life.
 
-**Stakeholders**
+## Stakeholders
 Students: Primary users who track data, receive tips, and manage their well-being.
 Administrators: System managers responsible for data integrity, resource updates, and usage monitoring.
 
-**User Stories**
-Student Features
+## User Stories
+_Student Features_
 1. As a student, I want to create an account, so that I can track my personal study and stress data.
 2. As a student, I want to log in to the system, so that I can access my stress and study tracking features.
 3. As a student, I want to record my daily study hours, so that I can monitor how much time I spend studying.
@@ -22,7 +24,7 @@ Student Features
 13. As a student, I want to track my progress toward my study goals, so that I can stay motivated.
 14. As a student, I want to receive notifications when my stress levels are high, so that I can take steps to relax.
 
-Admin Features
+_Admin Features_
 1. As an admin, I want to manage user accounts, so that I can ensure the system operates securely.
 2. As an admin, I want to monitor overall system usage, so that I can understand how students use the platform.
 3. As an admin, I want to update mental health resources in the system, so that students receive relevant support materials.
@@ -30,17 +32,17 @@ Admin Features
 5. As an admin, I want to send announcements or wellbeing tips, so that students receive helpful guidance.
 6. As an admin, I want to generate reports about student usage of the system, so that improvements can be made to the platform.
 
-**Product Backlog**
+## Product Backlog
 Must have: login system, study hour tracking, stress level logging
 Should have: relaxation tips, break reminders, emergency hotline access
 Could have: AI-based personalized recommendations
 Won't have: advanced analytics and social features 
 
-**Sprint Planning**
+## Sprint Planning
 Sprint 1 (Core): Authentication, Study/Stress recording, and Main Dashboard.
 Sprint 2 (Support): viewing study history and stress history, receiving study, break reminders, viewing relaxation tips, accessing emergency hotline contacts and counselling services, administrative functions (manage system data, monitor system usage, and manage users)
 
-**Functional Requirements**
+## Functional Requirements
 1. The system must provide these requirements.
 2. The system shall allow students to register an account.
 3. The system shall allow students to log in securely using authentication.
