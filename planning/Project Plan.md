@@ -1,12 +1,12 @@
-### Project Plan
+# Project Plan
 
 
-**Study Zen**
+## Study Zen
 
 Sustainable Development Goal: SDG 3 – Good Health and Well-Being
 
 
-**Project Overview**
+## Project Overview
 
 The Stress & Study Balance Tracker is a mental health support system designed to help students manage academic stress while maintaining a healthy study routine. The system allows students to record study hours, track their stress levels, receive reminders to take breaks, and access relaxation tips or emergency support resources.
 
@@ -14,7 +14,7 @@ This project supports Sustainable Development Goal 3 (Good Health and Well-Being
 
 
 
-**Project Objectives**
+## Project Objectives
 
 The main objectives of the system are:
 1. Help students monitor study habits and stress levels
@@ -24,7 +24,7 @@ The main objectives of the system are:
 5. Improve time management and productivity
 
 
-**Key System Features**
+## Key System Features
 
 The prototype includes the following core features:
 _Study Hours Tracking_
@@ -68,7 +68,7 @@ _Admin Features_
 
 
 
-**Development Methodology**
+## Development Methodology
 
 The project follows an Agile development using the Scrum approach with two development sprints. Tasks are managed through a Trello Kanban board, allowing the team to track progress and organise development activities. Tasks move through these columns as the project progresses.
 
@@ -81,7 +81,7 @@ The Trello board includes the following columns:
 6. Done
 
 
-**Development Timeline**
+## Development Timeline
 
 _Week 1 – Planning (11 Feb – 17 Feb)_
 Activities:
@@ -128,7 +128,7 @@ Activities:
 
 
 
-**Tools Used**
+## Tools Used
 
 The following tools were used during development:
 _GitHub_
